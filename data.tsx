@@ -60,7 +60,7 @@ export const projects: Project[] = [
       "Developed a predictive stock price forecasting system using deep learning techniques. Implemented an LSTM-based neural network with TensorFlow and Keras to analyze historical stock data and predict future trends. Integrated sentiment analysis from financial news to improve model accuracy. Evaluated model performance using MSE and RMSE metrics, with hyperparameter optimization using Grid Search. The application was deployed with Streamlit for real-time stock analysis.",
     techStack: ["Python", "Transformers", "TensorFlow", "Keras", "Streamlit", "PyTorch"],
     gitLink: "https://github.com/Chandru305/Stock_Price_Forecasting",
-    liveLink: ""
+    liveLink: "https://stockpriceforecasting-m8bwim85lqhfzdot5b4bl8.streamlit.app/"
   },
   {
     name: "To-Do List (MERN Stack)",
