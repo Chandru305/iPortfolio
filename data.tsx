@@ -69,7 +69,7 @@ export const projects: Project[] = [
       "Designed and developed a feature-rich To-Do List application using the MERN stack (MongoDB, Express, React, Node.js). Allows users to create, edit, complete, and delete tasks with an intuitive user interface. Integrated real-time database synchronization with MongoDB and deployed the backend using Express.js. Ensured a responsive UI with TailwindCSS and React hooks for a smooth user experience.",
     techStack: ["React", "NodeJS", "MongoDB", "ExpressJS"],
     gitLink: "https://github.com/Chandru305/To_Do_List",
-    liveLink: ""
+    liveLink: "https://to-do-list-nine-phi-96.vercel.app/"
   },
   {
     name: "Spam Email Detection",
@@ -78,7 +78,7 @@ export const projects: Project[] = [
       "Developed an AI-powered spam email detection system using machine learning techniques. Implemented an SVM-based classification model with Scikit-learn to accurately differentiate between spam and legitimate emails. Extracted key email features using natural language processing (NLP) and TF-IDF vectorization. Evaluated model accuracy using precision, recall, and F1-score metrics. Built a Streamlit-based UI for interactive testing, allowing users to input email text and receive real-time spam classification.",
     techStack: ["Python", "Scikit-learn", "Streamlit"],
     gitLink: "https://github.com/Chandru305/Spam_email_detection",
-    liveLink: ""
+    liveLink: "https://spamemaildetection-gvw6tjxuqufpuyfrafh9u8.streamlit.app/"
   },
 ];
 
