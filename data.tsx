@@ -47,7 +47,7 @@ export const techDict: Record<string, TechInfo> = {
 };
 
 // Hero Section Data
-export const heroTags = ["Full-Stack Developer", "AI/ML Enthusiast", "Data Analyst"];
+export const heroTags = ["Full-Stack Developer", "AI/ML Enthusiast"];
 
 export const heroText =
   "Driven by the thirst for knowledge and a passion for tech. Eager to learn, grow, and contribute through impactful projects and collaborative experiences. Let’s connect and create something amazing together!";
